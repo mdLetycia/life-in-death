@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"object_menu","order":2,"path":"objects/object_menu/object_menu.yy",},
+    {"name":"spr_menu_background","order":4,"path":"sprites/spr_menu_background/spr_menu_background.yy",},
+    {"name":"Sprite1","order":3,"path":"sprites/Sprite1/Sprite1.yy",},
+  ],
+}
